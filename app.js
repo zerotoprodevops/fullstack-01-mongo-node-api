@@ -33,4 +33,4 @@ app.post('/items', async (req, res) => {
   }
 });
 
-app.listen(3000, () => console.log('Backend API running on port 3000'));
+app.listen(3000, () => console.log('Backend API version 2 running! on port 3000'));
